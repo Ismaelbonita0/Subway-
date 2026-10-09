@@ -1,0 +1,6 @@
+{
+  "name": "Subway Surfers 3D Ultra",
+  "description": "Jogo 3D ultra realista de corrida infinita nos trilhos do metrô, com gráficos de alta fidelidade e mecânicas de movimento fluido para mobile e desktop.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
